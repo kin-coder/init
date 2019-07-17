@@ -1,2 +1,2 @@
 # init
-Hello world!.;
+Hello world!
